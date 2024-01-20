@@ -1,3 +1,5 @@
 .pytest_cache
 venv
 tests/login/sidebar/.pytest_cache
+.idea
+inspectionProfiles
